@@ -72,7 +72,7 @@ or clone it for local development:
 
 ```bash
 git clone https://github.com/draco-china/next-ssr-template.git
-cd next-template
+cd next-ssr-template
 
 # Install dependencies
 pnpm install
@@ -85,7 +85,7 @@ Open <http://localhost:3000> with your browser to see the result.
 
 ## 🚀 Deploy on Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdraco-china%2Fnext-template)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdraco-china%2Fnext-ssr-template)
 
 The easiest way to deploy your Next.js app is to use the
 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)

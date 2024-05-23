@@ -72,7 +72,7 @@
 
 ```bash
 git clone https://github.com/draco-china/next-ssr-template.git
-cd next-template
+cd next-ssr-template
 
 # 安裝依賴項
 pnpm install
@@ -85,7 +85,7 @@ pnpm dev
 
 ## 🚀 部署到 Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdraco-china%2Fnext-template)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdraco-china%2Fnext-ssr-template)
 
 部署 Next.js 應用程式最簡單的方式是使用
 [Vercel 平台](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
